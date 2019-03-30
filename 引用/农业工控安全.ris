@@ -1,0 +1,253 @@
+﻿TY  - JOUR
+AB  - The aim of the present paper is to review the technical and scientific state of the art of wireless sensor technologies and standards for wireless communications in the Agri-Food sector. These technologies are very promising in several fields such as environmental monitoring, precision agriculture, cold chain control or traceability. The paper focuses on WSN (Wireless Sensor Networks) and RFID (Radio Frequency Identification), presenting the different systems available, recent developments and examples of applications, including ZigBee based WSN and passive, semi-passive and active RFID. Future trends of wireless communications in agriculture and food industry are also discussed.
+AU  - Ruiz-Garcia, Luis
+AU  - Lunadei, Loredana
+AU  - Barreiro, Pilar
+AU  - Robla, Ignacio
+IS  - 9
+KW  - WSN
+RFID
+agriculture
+food
+PY  - 2009
+SP  - 4728-4750
+ST  - A Review of Wireless Sensor Technologies and Applications in Agriculture and Food Industry: State of the Art and Current Trends
+T2  - Sensors
+TI  - A Review of Wireless Sensor Technologies and Applications in Agriculture and Food Industry: State of the Art and Current Trends
+ID  - 2236
+ER  - 
+
+TY  - JOUR
+AB  - This paper presents an overview on recent development of wireless sensor technologies and standards for wireless communications as applied to wireless sensors. Examples of wireless sensors and sensor networks applied in agriculture and food production for environmental monitoring, precision agriculture, M2M-based machine and process control, building and facility automation and RFID-based traceability systems are given. The paper also discusses advantages of wireless sensors and obstacles that prevent their fast adoption. Finally, based on an analysis of market growth, the paper discusses future trend of wireless sensor technology development in agriculture and food industry.
+AU  - Wang, Ning
+AU  - Zhang, Naiqian
+AU  - Wang, Maohua
+DA  - 2006/01/01/
+DO  - https://doi.org/10.1016/j.compag.2005.09.003
+IS  - 1
+KW  - M2M
+ZigBee
+Bluetooth
+RFID
+PY  - 2006
+SN  - 0168-1699
+SP  - 1-14
+ST  - Wireless sensors in agriculture and food industry—Recent development and future perspective
+T2  - Computers and Electronics in Agriculture
+TI  - Wireless sensors in agriculture and food industry—Recent development and future perspective
+UR  - http://www.sciencedirect.com/science/article/pii/S0168169905001572
+https://www.sciencedirect.com/science/article/pii/S0168169905001572?via%3Dihub
+VL  - 50
+ID  - 2234
+ER  - 
+
+TY  - CONF
+AB  - Industrial control systems (ICS) are related to all aspects of human life and have become the target of many cyber-attackers. Attacks on industrial control systems may not only cause monetary loss, but also damage equipment, the environment and hurt staff, such as the Stuxnet and the cyber attack on the Ukrainian power grid. So the intrusion detection of ICS has a great significance. This paper based on the intrusion detection by telemetry analysis, optimized the system model, captured the communication packets between different nodes in the system, then extracted features for machine learning to achieve malicious traffic detection, and the attack types are further distinguished. Telemetry means that it does not need to enter the industrial control system network, but by capturing data packets remotely to achieve intrusion detection. 2017 IEEE.
+AD  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Li, Hongbiao
+AU  - Qin, Sujuan
+CY  - Chengdu, China
+DO  - 10.1109/CompComm.2017.8322743
+KW  - Electric power system control
+Artificial intelligence
+Computer crime
+Control systems
+Electric power transmission networks
+Intelligent control
+Intrusion detection
+Learning systems
+Network security
+Telemetering equipment
+L1  - internal-pdf://0868863435/Li-2018-Optimization and implementation of ind.pdf
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+20182905552161
+Capturing data
+Communication packets
+Cyber attackers
+Cyber-attacks
+Industrial control systems
+Malicious traffic
+Network intrusion detection
+System modeling
+
+工业控制系统（ICS）与人类生活的各个方面有关，并已成为许多网络攻击者的目标。 对工业控制系统的攻击可能不仅会造成经济损失，还会损害设备，环境和伤害员工，例如Stuxnet和乌克兰电网的网络攻击。 因此ICS的入侵检测具有重要意义。 本文基于遥测分析的入侵检测，优化系统模型，捕获系统中不同节点之间的通信包，然后提取机器学习功能，实现恶意流量检测，进一步区分攻击类型。 遥测意味着它不需要进入工业控制系统网络，而是通过远程捕获数据包来实现入侵检测。 2017 IEEE。
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2018
+SP  - 1251-1254
+ST  - Optimization and implementation of industrial control system network intrusion detection by telemetry analysis
+T2  - 3rd IEEE International Conference on Computer and Communications, ICCC 2017, December 13, 2017 - December 16, 2017
+T3  - 2017 3rd IEEE International Conference on Computer and Communications, ICCC 2017
+TI  - Optimization and implementation of industrial control system network intrusion detection by telemetry analysis
+UR  - http://dx.doi.org/10.1109/CompComm.2017.8322743
+https://ieeexplore.ieee.org/ielx7/8318023/8322494/08322743.pdf?tp=&arnumber=8322743&isnumber=8322494
+VL  - 2018-January
+ID  - 2163
+ER  - 
+
+TY  - WEB
+C1  - 2019
+C2  - 20190328
+KW  - ICS
+M1  - 20190328
+PB  - Wikipedia
+PY  - 2019
+ST  - Industrial control system
+TI  - Industrial control system
+UR  - https://en.wikipedia.org/wiki/Industrial_control_system
+VL  - 2019
+ID  - 2233
+ER  - 
+
+TY  - CONF
+AB  - The modernization of Industrial Control Systems (ICS), primarily targeting increased efficiency and controllability through integration of Information Technologies (IT), introduced the unwanted side effect of extending the ICS cyber-security threat landscape. ICS are facing new security challenges and are exposed to the same vulnerabilities that plague IT, as demonstrated by the increasing number of incidents targeting ICS. Due to the criticality and unique nature of these systems, it is important to devise novel defense mechanisms that incorporate knowledge of the underlying physical model, and can detect attacks in early phases. To this end, we study a benchmark chemical process, and enumerate the various categories of attack vectors and their practical applicability on hardware controllers in a Hardware-In-The-Loop testbed. Leveraging the observed implications of the categorized attacks on the process, as well as the profile of typical disturbances, we follow a data-driven approach to detect anomalies that are early indicators of malicious activity. 2016 IEEE.
+AD  - Tandon School of Engineering, New York University, New York, United StatesNew York University, Abu Dhabi, Abu Dhabi, United Arab Emirates
+AU  - Keliris, Anastasis
+AU  - Salehghaffari, Hossein
+AU  - Cairl, Brian
+AU  - Krishnamurthy, Prashanth
+AU  - Maniatakos, Michail
+AU  - Khorrami, Farshad
+CY  - Fort Worth, TX, United states
+DO  - 10.1109/TEST.2016.7805855
+KW  - Intelligent control
+Chemical attack
+Controllability
+Hardware
+Learning systems
+Network security
+L1  - internal-pdf://0490227320/Keliris-2017-Machine learning-based defense ag.pdf
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+20170903398973
+Chemical process
+Data-driven approach
+Defense mechanism
+Early indicators
+Hard-ware-in-the-loop
+Industrial control systems
+Malicious activities
+Security challenges
+
+工业控制系统（ICS）的现代化，主要是通过整合信息技术（IT）来提高效率和可控性，引入了扩展ICS网络安全威胁形势的不良副作用。 ICS正面临新的安全挑战，并面临着困扰IT的相同漏洞，正如针对ICS的事件越来越多所证明的那样。由于这些系统的关键性和独特性，重要的是设计新颖的防御机制，其中包含底层物理模型的知识，并且可以在早期阶段检测攻击。为此，我们研究了基准化学过程，并在硬件在环测试平台中列举了各类攻击向量及其在硬件控制器上的实际适用性。利用分类攻击对过程的观察到的影响以及典型干扰的概况，我们遵循数据驱动的方法来检测异常，这些异常是恶意活动的早期指标。 2016 IEEE。
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2017
+SN  - 10893539
+SP  - IEEE Philadelphia Section; Institute of Electrical and Electronic Engineers, Inc. (IEEE)
+ST  - Machine learning-based defense against process-Aware attacks on Industrial Control Systems
+T2  - 47th IEEE International Test Conference, ITC 2016, November 15, 2016 - November 17, 2016
+T3  - Proceedings - International Test Conference
+TI  - Machine learning-based defense against process-Aware attacks on Industrial Control Systems
+UR  - http://dx.doi.org/10.1109/TEST.2016.7805855
+https://ieeexplore.ieee.org/ielx7/7794484/7805805/07805855.pdf?tp=&arnumber=7805855&isnumber=7805805
+VL  - 0
+ID  - 2072
+ER  - 
+
+TY  - CONF
+AU  - Dewey, David
+AU  - Giffin, Jonathon T
+PY  - 2012
+ST  - Static detection of C++ vtable escape vulnerabilities in binary code
+T2  - NDSS
+TI  - Static detection of C++ vtable escape vulnerabilities in binary code
+ID  - 1699
+ER  - 
+
+TY  - JOUR
+AB  - 近年来,随着软件规模和复杂度的日益增加,软件漏洞挖掘技术正逐渐向高度自动化和智能化演变,该文从传统漏洞挖掘技术和基于学习的智能化漏洞挖掘技术两方面深入调研和分析了相关的研究进展.首先,从静态和动态挖掘技术两方面详细介绍了传统漏洞挖掘技术的研究现状,涉及的技术包括模型检测、二进制比对、模糊测试、符号执行以及漏洞可利用性分析等,并分析了各项技术存在的问题,提出当前的研究难点是实现漏洞挖掘全自动化.然后,介绍了机器学习和深度学习技术在漏洞挖掘领域的应用,具体应用场景包括二进制函数识别、函数相似性检测、测试输入生成、路径约束求解等,并提出了其存在的机器学习算法不够健壮安全、算法选择依靠经验、数据样本不足、特征选择依赖专家知识等问题.最后,对未来研究工作进行了展望,提出应该围绕提高漏洞挖掘的精度和效率、提高自动化和智能化的程度这两方面展开工作.
+AU  - 邹权臣
+AU  - 张涛
+AU  - 吴润浦
+AU  - 马金鑫
+AU  - 李美聪
+AU  - 陈晨
+AU  - 侯长玉
+DA  - 2018-11-14 15:06
+DO  - 1ea146c84a19e98e72673a49923940f2
+KW  - 漏洞挖掘
+模糊测试
+符号执行
+机器学习
+深度学习
+L1  - internal-pdf://1596804557/从自动化到智能化_软件漏洞挖掘技术进展_邹权臣.pdf
+PY  - 2018
+SP  - 1-16
+ST  - 从自动化到智能化:软件漏洞挖掘技术进展
+T2  - 清华大学学报(自然科学版)
+TI  - 从自动化到智能化:软件漏洞挖掘技术进展
+UR  - http://kns.cnki.net/kns/detail/detail.aspx?FileName=QHXB20181029000&DbName=DKFX2018
+ID  - 1565
+ER  - 
+
+TY  - CPAPER
+AU  - Feng, Qian
+AU  - Zhou, Rundong
+AU  - Xu, Chengcheng
+AU  - Cheng, Yao
+AU  - Testa, Brian
+AU  - Yin, Heng
+CY  - Vienna, Austria
+DO  - 10.1145/2976749.2978370
+L1  - internal-pdf://0726543018/Feng-2016-Scalable Graph-based Bug Search for.pdf
+PB  - ACM
+PY  - 2016
+SP  - 480-491
+T2  - Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security
+TI  - Scalable Graph-based Bug Search for Firmware Images
+UR  - http://delivery.acm.org/10.1145/2980000/2978370/p480-feng.pdf?ip=159.226.5.99&id=2978370&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2EB04AF4E1D4A7D93E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542186083_d1f656a64a82b3c26979d01aea4f291a
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - 在信息化时代,人们对软件的质量要求越来越高.程序分析是保障软件质量的重要手段之一,日益受到学术界和产业界的重视.介绍若干基本程序分析技术(抽象解释、数据流分析、基于摘要的分析、符号执行、动态分析、基于机器学习的程序分析等),特别是最近10余年的研究进展.进而介绍了针对不同类型软件(移动应用、并发软件、分布式系统、二进制代码等)的分析方法.最后展望程序分析未来的研究方向和挑战.
+AD  - 计算机科学国家重点实验室(中国科学院软件研究所);中国科学院大学;清华大学网络科学与网络空间研究院;武汉大学计算机学院;高可信软件技术教育部重点实验室(北京大学);华为技术有限公司;中国人民大学信息学院;中国科学院计算技术研究所;国防科技大学计算机学院;
+AU  - 张健
+AU  - 张超
+AU  - 玄跻峰
+AU  - 熊英飞
+AU  - 王千祥
+AU  - 梁彬
+AU  - 李炼
+AU  - 窦文生
+AU  - 陈振邦
+AU  - 陈立前
+AU  - 蔡彦
+CN  - 11-2560/TP
+DP  - Cnki
+IS  - 1
+KW  - 程序分析
+软件质量保障
+静态分析
+动态分析
+L1  - internal-pdf://0858583226/程序分析研究进展-张健-2019.pdf
+PY  - 2019
+SN  - 1000-9825
+SP  - 1-31
+ST  - 程序分析研究进展
+T2  - 软件学报
+TI  - 程序分析研究进展
+UR  - https://doi.org/10.13328/j.cnki.jos.005651
+VL  - 30
+ID  - 1412
+ER  - 
+
+TY  - CPAPER
+AU  - Chen, Jiongyi
+AU  - Diao, Wenrui
+AU  - Zhao, Qingchuan
+AU  - Zuo, Chaoshun
+AU  - Lin, Zhiqiang
+AU  - Wang, XiaoFeng
+AU  - Lau, Wing Cheong
+AU  - Sun, Menghan
+AU  - Yang, Ronghai
+AU  - Zhang, Kehuan
+CY  - San Diego, CA, USA
+DO  - 10.14722/ndss.2018.23159
+L1  - internal-pdf://4162863838/IoTFuzzer Discovering Memory Corruptions in Io.pdf
+internal-pdf://0659544413/Chen-2018-IoTFuzzer_ Discovering Memory Corrup.pdf
+PY  - 2018
+T2  - Proceedings of the 2018 Network and Distributed System Security Symposium
+TI  - IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing
+ID  - 3
+ER  - 
+
